@@ -1,13 +1,17 @@
-# <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
+<p align="center">Netflix Shows and Movies Project</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dvlgo9z09/image/upload/v1753206610/Netflix_Dashboard_Tableau_cew1ru.png" alt="Netflix Dashboard - Tableau">
+</p>
+
 
 **Tools Used:** Excel, MySQL, Tableau
 
 [Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
-[SQL Analysis (Code)](https://github.com/SharifAthar/Netflix-Shows-and-Movies-SQL/blob/main/Netflix_SQL_Analysis.sql)
+[SQL Analysis (Code)](https://github.com/IpsitaPradhan1234/Netflix-SQL/blob/master/Netflix_SQL_Analysis.sql)
 
-[Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/ipsita.pradhan/viz/Netflix_SQL_Ipsita/Dashboard1?publish=yes)
+
 
 - **Business Problem:** Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
 
